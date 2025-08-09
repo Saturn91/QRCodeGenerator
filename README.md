@@ -1,7 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 # Saturn91's QRCode Generator
 
 A simple, privacy-friendly QR code generator. No accounts, no tracking, no selling your soul—just generate and save QR codes instantly.
